@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mario Calvo
+- 👀 I’m interested in Economics
+- 🌱 I’m currently learning Economics
+- 💞️ I’m looking to collaborate on Programing Language and Macro/Micro Econometric Models
