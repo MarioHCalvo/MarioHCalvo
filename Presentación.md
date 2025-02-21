@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mario Calvo
-- 👀 I’m interested in Economics
+- 👀 I’m interested in Economics Analysis for Public Politics and Decision Making with Data Analysis, Kpi´s in Power Apps like Power BI
 - 🌱 I’m currently learning Economics
 - 💞️ I’m looking to collaborate on Programing Language and Macro/Micro Econometric Models
